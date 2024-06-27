@@ -11,5 +11,5 @@ Name: Lasya Vanga ID: 700762893
   List comprehensions
 video link : 
 
-Code File - NNDL-ICP2-7007628933.ipynb 
+Code File - NNDL_ICP2_7007628933.ipynb 
 Document- NNDL-ICP2-700762893.pdf
