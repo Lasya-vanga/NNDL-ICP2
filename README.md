@@ -9,7 +9,7 @@ Name: Lasya Vanga ID: 700762893
 3.Write a program, which reads heights (inches.) of customers into a list and convert these heights to centimeters in a separate list using:
   Nested Interactive loop.
   List comprehensions
-video link : 
+video link : https://drive.google.com/file/d/1OsbrvKBNJUua_1zzFGfZGSXvOdPLKtv7/view?usp=drive_link
 
 Code File - NNDL_ICP2_7007628933.ipynb 
 Document- NNDL-ICP2-700762893.pdf
